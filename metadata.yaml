@@ -1,0 +1,33 @@
+_repo: Stair-Building-and-the-Steel-Square-A-Manual-of-Practical-Instruction-in-the-Art-of-Stair-Bui__61150
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Williams, Morris
+    gutenberg_agent_id: '51285'
+    url: http://www.gutenberg.org/2009/agents/51285
+  - agent_name: Hodgson, Fred. T. (Frederick Thomas)
+    aliases:
+    - Hodgson, Frederick Thomas
+    - Hodgson, F. T. (Frederick Thomas)
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '43079'
+    url: http://www.gutenberg.org/2009/agents/43079
+description: ''
+gutenberg_issued: '2020-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stair building'
+- !lcc 'TH'
+- !lcsh 'Carpenters'' squares'
+- GITenberg
+title: "Stair-Building and the Steel Square\r\nA Manual of Practical Instruction in\
+  \ the Art of Stair-Building and Hand-Railing, and the Manifold Uses of the Steel\
+  \ Square"
+url: http://www.gutenberg.org/ebooks/61150
