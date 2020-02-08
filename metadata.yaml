@@ -1,5 +1,8 @@
 _repo: Stair-Building-and-the-Steel-Square-A-Manual-of-Practical-Instruction-in-the-Art-of-Stair-Bui__61150
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61150-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Williams, Morris
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '43079'
     url: http://www.gutenberg.org/2009/agents/43079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61150#Stair-Building-and-the-Steel-Square-A-Manual-of-Practical-Instruction-in-the-Art-of-Stair-Bui_
 gutenberg_issued: '2020-01-11'
 gutenberg_type: Text
 identifiers:
